@@ -1778,7 +1778,7 @@ class Main:
 		print(" [7] 2006-2007 Cloning Paid")
 		print(" [E] Exit Programming\n")
 		JACKSON =input(" Choose : ")
-		if MERRY in ["1", "01"]:
+		if JACKSON in ["1", "01"]:
 			File()
 		if JACKSON in ["2", "02"]:
 			Public()
